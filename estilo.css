@@ -1,0 +1,67 @@
+/* Estilo general del sitio */
+body {
+    background-color: #f4f4f4;
+    color: #222;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Título principal */
+h1 {
+    color: #0b3d91;
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Subtítulos */
+h2 {
+    color: #1a73e8;
+    font-size: 24px;
+}
+
+/* Párrafos */
+p {
+    font-size: 16px;
+    color: #333;
+}
+
+/* Links */
+a {
+    color: #d62828;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Lista de navegación */
+ul {
+    font-size: 16px;
+}
+
+/* Tabla (para horario.html) */
+table {
+    color: #000;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Encabezado */
+header {
+    background-color: #e3eafc;
+    color: #000;
+}
+
+/* Navegación */
+nav {
+    background-color: #dbeafe;
+}
+
+/* Secciones */
+section {
+    color: #222;
+}
+
+/* Pie de página */
+footer {
+    background-color: #0b3d91;
+    color: #ffffff;
+    font-size: 14px;
+}
